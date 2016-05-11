@@ -1,0 +1,4 @@
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\bin\Debug\TerminalDLL.dll
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\bin\Debug\TerminalDLL.pdb
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\obj\Debug\TerminalDLL.dll
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\obj\Debug\TerminalDLL.pdb

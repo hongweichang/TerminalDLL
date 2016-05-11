@@ -1,0 +1,6 @@
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\bin\x86\Debug\TerminalDLL.dll
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\bin\x86\Debug\TerminalDLL.pdb
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\obj\x86\Debug\TerminalDLL.dll
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\obj\x86\Debug\TerminalDLL.pdb
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\bin\x86\Debug\TerminalDLL.XML
+c:\users\bigface\documents\visual studio 2015\Projects\TerminalDLL\TerminalDLL\obj\x86\Debug\TerminalDLL.csprojResolveAssemblyReference.cache

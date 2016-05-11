@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TerminalDLL</name>
+    </assembly>
+    <members>
+        <member name="M:TerminalDLL.IDCardAPI.Syn_FindReader">
+            <summary>
+            寻找读卡器
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
