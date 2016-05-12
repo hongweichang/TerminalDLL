@@ -1,0 +1,7 @@
+C:\Users\bigface\Documents\Visual Studio 2015\Projects\TerminalDLL\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\bigface\Documents\Visual Studio 2015\Projects\TerminalDLL\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\bigface\Documents\Visual Studio 2015\Projects\TerminalDLL\UnitTestProject\bin\Debug\TerminalDLL.dll
+C:\Users\bigface\Documents\Visual Studio 2015\Projects\TerminalDLL\UnitTestProject\bin\Debug\TerminalDLL.pdb
+C:\Users\bigface\Documents\Visual Studio 2015\Projects\TerminalDLL\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\bigface\Documents\Visual Studio 2015\Projects\TerminalDLL\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\bigface\Documents\Visual Studio 2015\Projects\TerminalDLL\UnitTestProject\obj\Debug\UnitTestProject.pdb
